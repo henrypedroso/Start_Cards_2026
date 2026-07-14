@@ -23,3 +23,13 @@ header a :hover{
     color: #ff5733;
 }
 
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100 vh;
+}
+
+main{
+    flex: 1;
+}
+
