@@ -3,12 +3,13 @@
     padding: 0;
 }
 
-.cabecalho{
-    padding: 15px 25px;
-    display: flex;
-    justify-content: space-between;
-    align-self: center;
-}
+
+.cabecalho { 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  padding: 15px 25px; 
+} 
 
 .cartao{
     width: 260px;
@@ -23,13 +24,13 @@ header a :hover{
     color: #ff5733;
 }
 
-body{
-    display: flex;
-    flex-direction: column;
-    min-height: 100 vh;
-}
+body { 
+  display: flex; 
+  flex-direction: column; 
+  min-height: 100vh; 
+} 
 
-main{
-    flex: 1;
-}
+main { 
+  flex: 1; 
+} 
 
