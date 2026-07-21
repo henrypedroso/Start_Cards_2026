@@ -20,9 +20,6 @@
     width: 100%;
 }
 
-header a :hover{
-    color: #ff5733;
-}
 
 body { 
   display: flex; 
@@ -30,7 +27,12 @@ body {
   min-height: 100vh; 
 } 
 
+<<<<<<< HEAD
+
+=======
 main { 
   flex: 1; 
 } 
 
+
+>>>>>>> e16dbd3b6fa2d37ef4db7326600b59195de958d4
