@@ -42,3 +42,8 @@ main{
 h1{
     color: white
 }
+
+footer{
+    background-color: blue;
+    color: white;
+}
