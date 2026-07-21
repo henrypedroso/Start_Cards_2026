@@ -9,7 +9,7 @@
   justify-content: space-between; 
   align-items: center; 
   padding: 15px 25px; 
-  background-color: rgb(56, 4, 104);
+  background-color: blue;
 } 
 
 .cartao{
@@ -28,12 +28,10 @@ body {
   min-height: 100vh; 
 } 
 
-<<<<<<< HEAD
+main{
+    flex: 1;
+}
 
-=======
-main { 
-  flex: 1; 
-} 
-
-
->>>>>>> e16dbd3b6fa2d37ef4db7326600b59195de958d4
+.cabecalho-link{
+    color: white
+}
